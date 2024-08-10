@@ -1,0 +1,11 @@
+# 对于Visual Studio项目
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+# 忽略 Visual Studio 生成的临时文件和目录
+.vs/
+VehicleClientProj/.vs/
+VehicleClientProj/out/build/x64-debug
