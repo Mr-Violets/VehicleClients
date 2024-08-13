@@ -1,0 +1,5 @@
+# ninja log v5
+0	5300	1723533307661891717	CMakeFiles/VehicleClientProjV1.0.dir/PerceptionDeviceManager.cpp.o	9b29e7a67f3ec9dc
+0	5305	1723533307665890953	CMakeFiles/VehicleClientProjV1.0.dir/main.cpp.o	14ad52e35c48e396
+1	6080	1723533308437743339	CMakeFiles/VehicleClientProjV1.0.dir/CameraThreadManager.cpp.o	ba5461163a0d0fc1
+6080	6336	1723533308693694383	../../../VehicleClientProjV1.0	41e8bd40b8c9e0ca
