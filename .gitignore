@@ -10,3 +10,7 @@
 VehicleClientProj/.vs/
 VehicleClientProj/out/build/x64-debug
 VehicleClientProj/out/559041506/build/linux-debug
+
+VehicleClientProjV1.0/.vscode/
+VehicleClientProjV1.0/out/build/x64-debug/
+VehicleClientProjV1.0/dataCapture/
